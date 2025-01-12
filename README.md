@@ -9,7 +9,8 @@ I am a Sofware Engineer with 3 years of experience, with expertise in broad spec
 * 🌍  I'm based in Romania
 * 🧠  I'm learning Azure, PySpark and JavaScript
 * ⚡  I love gaming especially PS4 games
-
+* 🎓  I studied Computer Science at University Politehnica of Bucharest, Romania
+  
 ### Skills
 
 
